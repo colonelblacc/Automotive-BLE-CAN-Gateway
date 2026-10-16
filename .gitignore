@@ -1,0 +1,26 @@
+# KiCad Temporary, Lock & Local Configuration Files
+*.kicad_prl
+*.lck
+~*
+*-bak
+*-bak*
+_autosave*
+*.tmp
+*.bak
+*~
+
+# Local IDE & OS Files
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+
+# Internal Backups & Assignment Documents
+.history/
+AI Chat Logs/
+README/
+*_README.pdf
+DFMEA/
+Result Images/Drafts/
+Result Images/DFMEA*.png
