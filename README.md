@@ -223,7 +223,7 @@ The board layout and electrical connectivity were verified in KiCad with **zero 
 │
 ├── Architecture Diagram/             # Block diagram & architecture drawing
 │   ├── Automotive_BLE_CAN_Architecture_Diagram.png
-│   └── Architecture Root Diagram.pdf
+│   └── Automotive_BLE_CAN_Architecture_Diagram.pdf
 │
 ├── BOM/                              # Bill of Materials
 │   └── BOM_Automotive_BLE_CAN.csv    # Full component procurement list (73 line items)
